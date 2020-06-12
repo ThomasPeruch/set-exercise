@@ -33,4 +33,3 @@ public class Program {
 	sc.close();
 	}
 }
-//D:\\txts docs\\in.txt
